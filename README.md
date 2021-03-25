@@ -21,8 +21,6 @@ Data Visualisation
 
 * matplotlib (3.3.4)
 
-* seaborn (0.11.1)
-
 You need a software like Anaconda to run ipython notebook or you can use Google Colab to create the python script.
 
 # Project Motivation
