@@ -52,7 +52,7 @@ This project is part of  Udacity DataScience Nanodegree program. This project an
 
 5) Can we see any co-relation between number of reviews and price?
 
-The blog for this project is [here](https://medium.com/p/ca29b95bf2e3/edit)
+The blog for this project is [here](https://surfplanethoney.medium.com/how-to-predict-airbnb-listings-price-in-worlds-greenest-city-ca29b95bf2e3)
 
 # Acknowledgements & Licensing
 
