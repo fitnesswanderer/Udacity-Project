@@ -27,8 +27,8 @@ You need a software like Anaconda to run ipython notebook or you can use Google 
 
 # Project Motivation
 
-Climate Change is one of the biggest concerns in this coming decade.Different cities across the globe have taken various initiatives to promote sustainability for greener and cleaner planet.Copenhagen, capital of Denmark is identified as greenest city in 2020 and that makes it my top preference.
-I wanted to understand how AirBnB listing have faired in this greenest city and how a traveler can interpret this analysis to make better decision when searching for accomodation in Copenhagen.
+Climate Change is one of the biggest concerns in this coming decade.Different cities across the globe have taken various initiatives to promote sustainability for greener and cleaner planet.Copenhagen, capital of Denmark is identified as greenest city in 2020 and that makes it my top preference for analysis.
+I wanted to understand how AirBnB listing have faired in this greenest city and how a traveler can interpret this analysis to make better decision when searching for accomodation in Copenhagen and contribute to sustainability by making informed choices.
 
 # File Description
 
@@ -40,7 +40,7 @@ The files included in this project are:
 
 # Project Summary
 
-This project is part of  Udacity DataScience Nanodegree program. This project answers follwoing business questions
+This project is part of  Udacity DataScience Nanodegree program. This project answers following business questions
 
 1) Which neighborhoods has highest AirBnB listings? 
 
