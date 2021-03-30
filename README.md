@@ -37,8 +37,9 @@ The files included in this project are:
 * Data Science_Project 1.ipynb  
 
 # Project Summary
+Part 1. This is project based on CRISP-DM. CRISP-DM has 6 steps. 1)Business Understanding 2) Data Understanding 3) Data Preparation 4) Modeling 5) Evaluation 6) Deployment.
 
-This project is part of  Udacity DataScience Nanodegree program. This project answers following business questions
+This project is part of  Udacity DataScience Nanodegree program. This project answers following business questions:
 
 1) Which neighborhoods has highest AirBnB listings? 
 
