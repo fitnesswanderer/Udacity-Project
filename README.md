@@ -51,7 +51,6 @@ To get the business understanding, I went through the AirBnB dataset to see how 
 
 4) How well can we predict prices? What aspects correlate well to prices? 
 
-5) Can we see any co-relation between number of reviews and price?
 
 Data Understanding was carried out by data visualization. Bar plots, scatter plots helped to understand the data and understand the spread of the data.
 
