@@ -39,7 +39,9 @@ The files included in this project are:
 # Project Summary
 Part 1. This is project based on CRISP-DM. CRISP-DM has 6 steps. 1)Business Understanding 2) Data Understanding 3) Data Preparation 4) Modeling 5) Evaluation 6) Deployment.
 
-This project is part of  Udacity DataScience Nanodegree program. This project answers following business questions:
+This project is part of  Udacity DataScience Nanodegree program. 
+
+To get the business understanding, I went through the AirBnB dataset to see how prices are predicted for various cities. The following business questions have piqued my curiosity to delve deeper into the dataset:
 
 1) Which neighborhoods has highest AirBnB listings? 
 
@@ -50,6 +52,16 @@ This project is part of  Udacity DataScience Nanodegree program. This project an
 4) How well can we predict prices? What aspects correlate well to prices? 
 
 5) Can we see any co-relation between number of reviews and price?
+
+Data Understanding was carried out by data visualization. Bar plots, scatter plots helped to understand the data and understand the spread.
+
+Data Preparation was carried out to ensure there were no missinng values in the columns before applyiing algorithms. This was done by imputing the missing values.
+
+Algorithm applied is linear regression and r2 square of the training and testing data decides whether it is overfitting or not.
+
+Evaluation is carried out using r2 square and visulaizing the plot of test and train data. Testing and training data spread is uniform and there are few outliers.
+
+Deployment is using these results to write the data science blog.
 
 The blog for this project is [here](https://surfplanethoney.medium.com/how-to-predict-airbnb-listings-price-in-worlds-greenest-city-ca29b95bf2e3)
 
