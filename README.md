@@ -53,9 +53,9 @@ To get the business understanding, I went through the AirBnB dataset to see how 
 
 5) Can we see any co-relation between number of reviews and price?
 
-Data Understanding was carried out by data visualization. Bar plots, scatter plots helped to understand the data and understand the spread.
+Data Understanding was carried out by data visualization. Bar plots, scatter plots helped to understand the data and understand the spread of the data.
 
-Data Preparation was carried out to ensure there were no missinng values in the columns before applyiing algorithms. This was done by imputing the missing values.
+Data Preparation was carried out to ensure there were no missinng values in the columns before applying algorithms. This was done by imputing the missing values.
 
 Algorithm applied is linear regression and r2 square of the training and testing data decides whether it is overfitting or not.
 
