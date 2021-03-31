@@ -1,7 +1,7 @@
 # Airbnb Dataset Analysis for Copenhagen.
 
 
-This folder contains AirBnB listings  dataset for the city of Copenhagen,Denmark and python script which predicts price and average price in top 5 expensive and cheapest neighbourhood. A blog post describing this project in details is published on the website.
+This folder contains AirBnB listings  dataset for the city of Copenhagen,Denmark and python script which predicts price and average price in top  expensive and cheapest neighbourhood. A blog post describing this project in details is published on the website.
 
 # Installation
 
