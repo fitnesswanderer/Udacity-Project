@@ -25,7 +25,7 @@ You need a software like Anaconda to run ipython notebook or you can use Google 
 
 # Project Motivation
 
-Climate Change is one of the biggest concerns in this coming decade.Different cities across the globe have taken various initiatives to promote sustainability for greener and cleaner planet.Copenhagen, capital of Denmark is identified as greenest city in 2020 and that makes it my top preference for analysis.
+Climate Change is one of the biggest concerns in this coming decade.Different cities across the globe have taken various initiatives to promote sustainability for greener and cleaner planet.Copenhagen,capital of Denmark is identified as greenest city in 2020 and that makes it my top preference for analysis.
 I wanted to understand how AirBnB listing have faired in this greenest city and how a traveler can interpret this analysis to make better decision when searching for accomodation in Copenhagen and contribute to sustainability by making informed choices.
 
 # File Description
@@ -41,7 +41,7 @@ Part 1. This is project based on CRISP-DM. CRISP-DM has 6 steps. 1)Business Unde
 
 This project is part of  Udacity DataScience Nanodegree program. 
 
-To get the business understanding, I went through the AirBnB dataset to see how prices are predicted for various cities. The following business questions have piqued my curiosity to delve deeper into the dataset:
+To get the business understanding, I went through the AirBnB dataset and use ML to predict prices. The following business questions have piqued my curiosity to delve deeper into the dataset:
 
 1) Which neighborhoods has highest AirBnB listings? 
 
